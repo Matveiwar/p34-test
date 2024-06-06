@@ -1,4 +1,5 @@
 struct Date{
+	day = 0;
 
-
+void showDate();
 };
